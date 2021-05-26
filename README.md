@@ -16,5 +16,11 @@ Jedno z kółek powinno mieć możliwość sterowania  Strzałkami. Kółka powi
 3. Zrób coś kreatywnego! Zamiast kółek spróbuj dodać własne obrazki. Dodaj dźwięk, który odtworzy się RAZ podczas rozpoczęcia kolizji, dodaj własny tytuł gry. 
 Zaprogramuj ruch drugiego kółka.
 
+ŹRÓDŁA OPEN SOURCE:
+https://opengameart.org/ <=== OBRAZKI I MUZYKA
+https://www.freesfx.co.uk/sfx/ <==== MUZYKA
+
+
+
 
 
